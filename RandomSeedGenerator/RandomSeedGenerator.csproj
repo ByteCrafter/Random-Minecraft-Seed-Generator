@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>RandomSeedGenerator</RootNamespace>
-    <AssemblyName>RandomSeedGenerator</AssemblyName>
+    <AssemblyName>Random Minecraft Seed Generator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>RandomSeedGenerator.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

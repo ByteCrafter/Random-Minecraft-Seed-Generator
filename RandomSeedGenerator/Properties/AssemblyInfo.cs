@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("RandomSeedGenerator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Random Minecraft Seed Generator")]
+[assembly: AssemblyDescription("An Program that generates random Minecraft seeds.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RandomSeedGenerator")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCompany("KByte (earlier ByteCrafter)")]
+[assembly: AssemblyProduct("Random Minecraft Seed Generator")]
+[assembly: AssemblyCopyright("Copyright © 2015 KByte (earlier ByteCrafter)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
